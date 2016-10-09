@@ -1,0 +1,4 @@
+﻿  CommandLine.cpp
+d:\development\projects\hashmap\hashmap\commandline.cpp(121): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HashMap.vcxproj -> D:\Development\Projects\HashMap\Debug\HashMap.exe
+  HashMap.vcxproj -> D:\Development\Projects\HashMap\Debug\HashMap.pdb (Partial PDB)

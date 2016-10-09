@@ -1,0 +1,4 @@
+The test functionality is included in the command line interface (see help)
+
+The source requires c++11
+HashMap was compiled using g++ 4.8.4
